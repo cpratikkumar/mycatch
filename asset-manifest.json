@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mycatch/static/css/main.becce27c.css",
+    "main.js": "/mycatch/static/js/main.37cf9e85.js",
+    "static/media/fish.png": "/mycatch/static/media/fish.49448a507dfdac03ee23.png",
+    "static/media/google-play.png": "/mycatch/static/media/google-play.79a9bbe6b7b804adddcc.png",
+    "static/media/apple.png": "/mycatch/static/media/apple.1511c3d419cb16aec154.png",
+    "index.html": "/mycatch/index.html",
+    "main.becce27c.css.map": "/mycatch/static/css/main.becce27c.css.map",
+    "main.37cf9e85.js.map": "/mycatch/static/js/main.37cf9e85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.becce27c.css",
+    "static/js/main.37cf9e85.js"
+  ]
+}
