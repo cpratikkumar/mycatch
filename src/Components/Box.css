@@ -1,0 +1,13 @@
+.boxbody {
+  width: 20vw;
+  height: 50vh;
+  margin: 30px 30px;
+}
+.boxbody span {
+  font-size: 50px;
+  padding: 0px 7px;
+  background-color: skyblue;
+}
+.boxbody h4 {
+  margin: 15px 0px;
+}

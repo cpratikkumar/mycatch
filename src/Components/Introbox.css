@@ -1,0 +1,49 @@
+.cardbody {
+  width: 400px;
+  height: 400px;
+  margin: 50px 20px;
+  border: 2px solid rgba(0, 0, 0, 0.229);
+  padding: 0px 20px;
+  color: black;
+}
+.cardbody p {
+  margin-top: 20px;
+  font-weight: 600;
+  color: black;
+}
+.cardbody .emp {
+  width: 350px;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.166);
+  text-align: center;
+}
+.cardbody h3 {
+  margin-top: 20px;
+  margin-bottom: -20px;
+}
+@media screen and (max-width: 1000px) {
+  .cardbody {
+    width: 250px;
+    height: 350px;
+    margin: 50px 20px;
+    border: 2px solid rgba(0, 0, 0, 0.229);
+    padding: 0px 20px;
+  }
+  .cardbody p {
+    font-size: 12px;
+    margin-top: 20px;
+    font-weight: 600;
+    color: black;
+  }
+  .cardbody .emp {
+    width: 350px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.166);
+    text-align: center;
+  }
+  .cardbody h3 {
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+  }
+}

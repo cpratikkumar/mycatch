@@ -1,0 +1,54 @@
+.footer {
+  margin-top: 100px;
+  width: 100%;
+  height: 40vh;
+  background-color: rgba(6, 6, 103, 0.703);
+}
+.footer .lfoot img {
+  height: 100px;
+  margin: 50px 20px;
+}
+.footer .upperfoot {
+  display: flex;
+  justify-content: space-between;
+}
+.footer .upperfoot .rfoot {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
+.footer .upperfoot .rfoot .llfoot h4 {
+  margin-top: 40px;
+  margin-left: -50px;
+  color: white;
+}
+.footer .upperfoot .rfoot .llfoot span {
+  margin-top: 5px;
+  margin-left: -50px;
+  color: white;
+  font-size: 15px;
+}
+.footer .upperfoot .rfoot .rrfoot h4 {
+  margin-top: 40px;
+  color: white;
+}
+.footer .upperfoot .rfoot .rrfoot a {
+  text-decoration: none;
+  color: white;
+  margin-top: 10px;
+  margin-left: -30px;
+}
+.footer .rrfoot ul {
+  list-style: none;
+}
+.blank {
+  width: 90%;
+  height: 2px;
+  margin-left: 50px;
+  background-color: rgba(255, 255, 255, 0.292);
+}
+p {
+  margin-left: 30px;
+  margin-top: 5px;
+  color: white;
+}
