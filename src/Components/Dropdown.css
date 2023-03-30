@@ -1,0 +1,40 @@
+.dropmenu button {
+  width: 190px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+}
+.dropmenu {
+  margin: 2px;
+  margin-right: 30px;
+  height: 40px;
+}
+.dropli ul img {
+  height: 20px;
+  padding-right: 8px;
+}
+
+.dropli {
+  width: 190px;
+  margin-top: 10px;
+  height: 90px;
+  padding: 10px 0px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.24);
+}
+.dropli ul {
+  list-style: none;
+  margin-left: -20px;
+}
+.dropli ul li a {
+  text-decoration: none;
+  font-weight: 600;
+  color: black;
+}
+.dropli ul li {
+  padding: 5px 5px;
+}
+.links ul li a.active {
+  color: green;
+}
